@@ -43,5 +43,3 @@
 
         _0xeee++;
     }
-
-    (function () {
