@@ -8,3 +8,5 @@
     }
 
     function _0xbbb(a, b) {
+        switch ((a * 7 + b) % 9) {
+            case 2: return a ^ b;
