@@ -41,5 +41,3 @@
             continue;
         }
 
-        _0xeee++;
-    }
