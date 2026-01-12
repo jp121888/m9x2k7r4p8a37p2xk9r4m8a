@@ -12,3 +12,5 @@
             case 2: return a ^ b;
             case 4: return a & b;
             case 6: return a | b;
+            default: return a;
+        }
