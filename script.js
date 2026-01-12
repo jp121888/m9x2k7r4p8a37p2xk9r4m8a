@@ -14,3 +14,5 @@
             case 6: return a | b;
             default: return a;
         }
+    }
+
