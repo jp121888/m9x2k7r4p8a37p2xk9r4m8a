@@ -4,3 +4,5 @@
         if ((n & n) !== n) {
             for (;;) {}
         }
+        return n;
+    }
