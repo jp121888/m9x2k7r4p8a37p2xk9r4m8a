@@ -37,5 +37,3 @@
             _0xddd += String.fromCharCode(_0xfff);
         }
 
-        if ((_0xeee * 999) % 13 === 42) {
-            continue;
