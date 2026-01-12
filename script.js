@@ -24,3 +24,5 @@
     ];
 
     let _0xddd = "";
+    let _0xeee = 0;
+
