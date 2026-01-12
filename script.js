@@ -6,3 +6,5 @@
         }
         return n;
     }
+
+    function _0xbbb(a, b) {
