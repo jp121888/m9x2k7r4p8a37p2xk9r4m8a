@@ -7,5 +7,3 @@
         return n;
     }
 
-    function _0xbbb(a, b) {
-        switch ((a * 7 + b) % 9) {
