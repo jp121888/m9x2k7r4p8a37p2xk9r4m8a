@@ -15,5 +15,3 @@
             default: return a;
         }
     }
-
-    const _0xccc = [
