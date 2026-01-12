@@ -46,3 +46,5 @@
 
     (function () {
         if (false && _0xddd.length === 0) {
+            console.log("noise");
+        } else {
