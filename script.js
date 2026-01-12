@@ -27,5 +27,3 @@
     let _0xeee = 0;
 
     while (!![]) {
-        if (_0xeee === _0xccc.length) break;
-
