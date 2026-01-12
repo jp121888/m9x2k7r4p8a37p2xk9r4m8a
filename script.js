@@ -29,5 +29,3 @@
     while (!![]) {
         if (_0xeee === _0xccc.length) break;
 
-        let _0xfff = _0xaaa(_0xccc[_0xeee]);
-
