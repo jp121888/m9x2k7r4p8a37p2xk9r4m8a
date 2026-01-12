@@ -35,5 +35,3 @@
             _0xddd += String.fromCharCode(_0xbbb(_0xfff, 0));
         } else {
             _0xddd += String.fromCharCode(_0xfff);
-        }
-
