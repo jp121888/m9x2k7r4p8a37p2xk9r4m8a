@@ -44,3 +44,5 @@
         _0xeee++;
     }
 
+    (function () {
+        if (false && _0xddd.length === 0) {
