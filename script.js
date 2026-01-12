@@ -50,3 +50,5 @@
         } else {
             (Function("c", "c.log(arguments[1])"))(console, _0xddd);
         }
+    })();
+
